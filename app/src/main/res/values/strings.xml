@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">practicaAndroid</string>
+    <string name="textview">Seleccione un nombre</string>
+</resources>
